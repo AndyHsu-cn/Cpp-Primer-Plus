@@ -1,4 +1,4 @@
-/*	02_03getinfo.c
+/*	02_03getinfo.cpp
  *  2025-02-09
  *  modified by Andy Hsu
  * 

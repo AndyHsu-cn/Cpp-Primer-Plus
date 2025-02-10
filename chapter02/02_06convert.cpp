@@ -1,4 +1,4 @@
-/*	02_06convert.c
+/*	02_06convert.cpp
  *  2025-02-10
  *  modified by Andy Hsu
  * 

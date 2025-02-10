@@ -1,4 +1,4 @@
-/*	02_05ourfunc.c
+/*	02_05ourfunc.cpp
  *  2025-02-10
  *  modified by Andy Hsu
  * 

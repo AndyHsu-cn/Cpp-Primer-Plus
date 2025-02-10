@@ -1,4 +1,4 @@
-/*	exe02_04.c
+/*	exe02_04.cpp
  *  2025-02-10
  *  modified by Andy Hsu
  * 

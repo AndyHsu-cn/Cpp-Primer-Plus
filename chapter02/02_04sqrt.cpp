@@ -1,4 +1,4 @@
-/*	02_04sqrt.c
+/*	02_04sqrt.cpp
  *  2025-02-10
  *  modified by Andy Hsu
  * 

@@ -1,4 +1,4 @@
-/*	02_01myfirst.c
+/*	02_01myfirst.cpp
  *  2025-02-09
  *  modified by Andy Hsu
  * 
